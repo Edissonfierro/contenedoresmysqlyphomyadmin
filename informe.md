@@ -39,6 +39,11 @@ Una red personalizada en Docker permite que los contenedores se comuniquen usand
 
 ## 8. Procedimiento
 
+![img01](https://github.com/Edissonfierro/contenedoresmysqlyphomyadmin/blob/main/1.jpg)
+![img01](https://github.com/Edissonfierro/contenedoresmysqlyphomyadmin/blob/main/2.jpg)
+![img01](https://github.com/Edissonfierro/contenedoresmysqlyphomyadmin/blob/main/3.jpg)
+![img01](https://github.com/Edissonfierro/contenedoresmysqlyphomyadmin/blob/main/4.jpg)
+
 ## 9. Resultados esperados
 Acceso exitoso a la interfaz de phpMyAdmin desde el navegador (localhost:8080).
 
